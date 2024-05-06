@@ -4,9 +4,9 @@
     "asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).\nThis can impact web performance.\nAssets: \n  templates/vendors~main.084f03b9.js (253 KiB)"
   ],
   "version": "4.46.0",
-  "hash": "3828e304f18ad917bd8a",
-  "time": 6449,
-  "builtAt": 1715036550928,
+  "hash": "388208642cec8731ed18",
+  "time": 1738,
+  "builtAt": 1715036844050,
   "publicPath": "/",
   "outputPath": "/workspaces/ubuntu-website-deux/avronna.github.io/dist",
   "assetsByChunkName": {
@@ -18,7 +18,7 @@
     "main": "main.d94c36d7.js",
     "styles": [
       "styles.82b2ee7c.css",
-      "templates/styles.d7fa18d5.js"
+      "templates/styles.8f914112.js"
     ],
     "vendors~main": "templates/vendors~main.084f03b9.js"
   },
@@ -122,7 +122,7 @@
       "emitted": true
     },
     {
-      "name": "templates/styles.d7fa18d5.js",
+      "name": "templates/styles.8f914112.js",
       "size": 82,
       "chunks": [
         6
@@ -161,7 +161,7 @@
       ],
       "assets": [
         "styles.82b2ee7c.css",
-        "templates/styles.d7fa18d5.js",
+        "templates/styles.8f914112.js",
         "templates/vendors~main.084f03b9.js",
         "main.d94c36d7.js"
       ],
@@ -178,7 +178,7 @@
       ],
       "assets": [
         "styles.82b2ee7c.css",
-        "templates/styles.d7fa18d5.js",
+        "templates/styles.8f914112.js",
         "templates/vendors~main.084f03b9.js",
         "main.d94c36d7.js"
       ],
@@ -1457,9 +1457,9 @@
       ],
       "files": [
         "styles.82b2ee7c.css",
-        "templates/styles.d7fa18d5.js"
+        "templates/styles.8f914112.js"
       ],
-      "hash": "fade5cfa5b9ccb173f06",
+      "hash": "3bb6c508a0a39a316294",
       "siblings": [
         5,
         7
@@ -1534,7 +1534,7 @@
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
           "depth": 4,
-          "source": "// extracted by extract-css-chunks-webpack-plugin\n    if(module.hot) {\n      // 1715036547401\n      var cssReload = require(\"/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/extract-css-chunks-webpack-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"hot\":true,\"hmr\":true,\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  "
+          "source": "// extracted by extract-css-chunks-webpack-plugin\n    if(module.hot) {\n      // 1715036843553\n      var cssReload = require(\"/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/extract-css-chunks-webpack-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"hot\":true,\"hmr\":true,\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  "
         },
         {
           "id": "",
@@ -3479,9 +3479,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -4194,9 +4194,9 @@
           "chunks": [
             7
           ],
-          "issuer": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "issuerId": 115,
-          "issuerName": "../lib/bootstrapTemplates.js",
+          "issuer": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "issuerId": 59,
+          "issuerName": "../lib/bootstrapPlugins.js",
           "issuerPath": [
             {
               "id": 58,
@@ -4204,9 +4204,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             }
           ],
           "failed": false,
@@ -4319,9 +4319,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -4430,9 +4430,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -4883,9 +4883,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -6337,9 +6337,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -6413,9 +6413,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -6484,9 +6484,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -6560,9 +6560,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -6626,9 +6626,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -6692,9 +6692,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -6758,9 +6758,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -6834,9 +6834,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -6915,9 +6915,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -6991,9 +6991,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -7138,9 +7138,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -7219,9 +7219,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -7305,9 +7305,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -7381,9 +7381,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -7457,9 +7457,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -8721,9 +8721,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -9163,9 +9163,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -9225,9 +9225,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -9287,9 +9287,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -9349,9 +9349,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -9411,9 +9411,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -9468,9 +9468,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -9530,9 +9530,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -9592,9 +9592,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -9654,9 +9654,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -9716,9 +9716,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -9783,9 +9783,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -9855,9 +9855,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -9927,9 +9927,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -10004,9 +10004,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -10076,9 +10076,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -10153,9 +10153,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -10235,9 +10235,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -10312,9 +10312,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -10389,9 +10389,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -10471,9 +10471,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -10553,9 +10553,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -10630,9 +10630,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -10707,9 +10707,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -10774,9 +10774,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -10841,9 +10841,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -10908,9 +10908,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -10970,9 +10970,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -11035,9 +11035,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -11107,9 +11107,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 115,
-              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 59,
+              "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 9,
@@ -14739,9 +14739,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -15454,9 +15454,9 @@
       "chunks": [
         7
       ],
-      "issuer": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-      "issuerId": 115,
-      "issuerName": "../lib/bootstrapTemplates.js",
+      "issuer": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+      "issuerId": 59,
+      "issuerName": "../lib/bootstrapPlugins.js",
       "issuerPath": [
         {
           "id": 58,
@@ -15464,9 +15464,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         }
       ],
       "failed": false,
@@ -15579,9 +15579,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -15690,9 +15690,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -16290,9 +16290,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -17975,9 +17975,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -18051,9 +18051,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -18122,9 +18122,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -18198,9 +18198,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -18264,9 +18264,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -18330,9 +18330,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -18396,9 +18396,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -18472,9 +18472,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -18553,9 +18553,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -18629,9 +18629,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -18776,9 +18776,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -18857,9 +18857,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -18943,9 +18943,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -19019,9 +19019,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -19095,9 +19095,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -20790,9 +20790,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -21232,9 +21232,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -21294,9 +21294,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -21356,9 +21356,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -21418,9 +21418,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -21480,9 +21480,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -21537,9 +21537,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -21599,9 +21599,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -21661,9 +21661,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -21723,9 +21723,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -21785,9 +21785,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -21852,9 +21852,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -21924,9 +21924,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -21996,9 +21996,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -22073,9 +22073,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -22145,9 +22145,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -22222,9 +22222,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -22304,9 +22304,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -22381,9 +22381,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -22458,9 +22458,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -22540,9 +22540,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -22622,9 +22622,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -22699,9 +22699,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -22776,9 +22776,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -22843,9 +22843,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -22910,9 +22910,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -22977,9 +22977,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -23039,9 +23039,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -23104,9 +23104,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -23176,9 +23176,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 115,
-          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 59,
+          "identifier": "/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-hot-loader/webpack.js!/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 9,
@@ -25130,7 +25130,7 @@
         "ModuleConcatenation bailout: Module is not an ECMAScript module"
       ],
       "depth": 4,
-      "source": "// extracted by extract-css-chunks-webpack-plugin\n    if(module.hot) {\n      // 1715036547401\n      var cssReload = require(\"/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/extract-css-chunks-webpack-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"hot\":true,\"hmr\":true,\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  "
+      "source": "// extracted by extract-css-chunks-webpack-plugin\n    if(module.hot) {\n      // 1715036843553\n      var cssReload = require(\"/workspaces/ubuntu-website-deux/avronna.github.io/node_modules/extract-css-chunks-webpack-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"hot\":true,\"hmr\":true,\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  "
     },
     {
       "id": 133,
