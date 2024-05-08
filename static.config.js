@@ -1,11 +1,15 @@
 import path from 'path'
 import axios from 'axios'
 
+import posts from './posts.json'
+
 export default {
   getRoutes: async () => {
-    const { data: posts } = await axios.get(
-      'https://jsonplaceholder.typicode.com/posts'
-    )
+    // use data destructuring to get data from the promise object
+    // this is where the "posts" variable comes from
+    // const { data: posts } = await axios.get(
+    //   'https://jsonplaceholder.typicode.com/posts'
+    // )
 
     return [
       {
